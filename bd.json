@@ -1,0 +1,26 @@
+[
+    {
+        "nome": "teste",
+        "email": "@gmail.com",
+        "cpf": "02372929208",
+        "profissao": "dev1",
+        "endereco": {
+            "cep": "15424545",
+            "rua": "Terceira",
+            "bairro": "1",
+            "cidade": "ITB"
+        }
+    },
+    {
+        "nome": "teste",
+        "email": "@gmail.com",
+        "cpf": "02372929208",
+        "profissao": "dev",
+        "endereco": {
+            "cep": "15424545",
+            "rua": "Terceira",
+            "bairro": "1",
+            "cidade": "ITB"
+        }
+    }
+]
